@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/crack](https://github.com/crack)
 
-- 📝 I regularly write articles on [Not writing yet, but planning to start soon](Not writing yet, but planning to start soon)
+- 📝 I regularly write articles on Not writing yet, but planning to start soon
 
 - 💬 Ask me about **Telegram bots, Python, aiogram, async logic**
 
 - 📫 How to reach me **crack.contact@proton.me**
 
-- 📄 Know about my experiences [My GitHub profile shows all my current experience](My GitHub profile shows all my current experience)
+- 📄 Know about my experiences My GitHub profile shows all my current experience
 
 - ⚡ Fun fact **I build bots faster than I decide what to eat**
 
